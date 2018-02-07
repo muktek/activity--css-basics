@@ -45,4 +45,6 @@ Button
 
 ## Final Result
 
+![link to Twitter Login](twitter-login.png)
+
 **Try to search on Google about “placeholder input html” and see where can be useful.**
