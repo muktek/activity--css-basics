@@ -1,6 +1,6 @@
-# Twitter Login
+# Activity - CSS Basics: Twitter Login
 
-## Steps
+## Setup
 
 - Create a project folder called “activity--css-basics”.
 - Use the below code:
@@ -17,7 +17,7 @@
 </div>
 ```
 
-## Indications
+## Instructions
 
 - Write the correct HTML structure.
 - Write styles in `main.css` (You need to create this file and link it).
