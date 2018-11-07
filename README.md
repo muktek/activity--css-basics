@@ -1,4 +1,4 @@
-# Activity - CSS Basics: Twitter Login
+# Twitter Login
 
 ## Setup
 
