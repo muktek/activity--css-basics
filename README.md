@@ -47,4 +47,4 @@ Button
 
 ![link to Twitter Login](twitter-login.png)
 
-**Try to search on Google about “placeholder input html” and see where can be useful.**
+_The **Search** text is something called **placeholder**._ Try to search on Google how you can add it to the input.
